@@ -9,8 +9,16 @@ body{
                 margin-bottom: 75px;
             }
             footer{
-                padding:1em;
+/*                 padding:1em;
                 margin-top: 75px;
+               */
+                position: fixed;
+                left: 0;
+                bottom: 0;
+                width: 100%;
+/*                 background-color: red; */
+                color: white;
+                text-align: center;
             }
 
             header, footer {
