@@ -19,6 +19,10 @@ body{
                 background-color:  #fe6f61 ;
                 color: white;
                 text-align: center;
+              height:50px;
+              flex-direction:column;
+              display:flex;
+              justify-content:center;
             }
 
             header {
